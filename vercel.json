@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "rewrites": [
+    { "source": "/api/edit-message", "destination": "/api" }
+  ]
+}
